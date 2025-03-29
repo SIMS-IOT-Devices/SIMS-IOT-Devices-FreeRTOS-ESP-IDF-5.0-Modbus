@@ -2,7 +2,7 @@
 Modbus_TCP.c <br>
 Modbus protocol implementation for ESP32 in ESP IDF 5.0 environment  <br>
 my_data.h <br>
-WiFi credentials<br>
+WiFi credentials<br><br>
 The following example uses comertial simulators downoaded from https://www.modbus.org/tech.php  <br>
 Modpoll program   - simulates master  <br>
 Diagslave program - simulates slave  <br>
