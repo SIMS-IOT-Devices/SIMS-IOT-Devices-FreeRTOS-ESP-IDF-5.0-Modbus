@@ -2,9 +2,9 @@
 Modbus_TCP.c <br>
 Modbus protocol for ESP32 in ESP IDF environment  <br>
  <br>
-The following example uses comertial simulators downoaded from https://www.modbus.org/tech.php  <br> <br>
+The following example uses comertial simulators downoaded from https://www.modbus.org/tech.php  <br>
 Modpoll program   - simulates master  <br>
-Diagslave program - simulates slave  <br> <br>
+Diagslave program - simulates slave  <br>
 Exampe 1: Write-Read one field   <br>
 Slave 	- Start: 				diagslave -m tcp  <br>
 Master 	- Write one fied:		modpoll 127.0.0.1 999  <br>
