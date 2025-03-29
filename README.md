@@ -9,5 +9,5 @@ Slave 	- Start: 				diagslave -m tcp  <br>
 Master 	- Write one fied:		modpoll 127.0.0.1 999  <br>
 Master 	- Read one fied:		modpoll -m tcp 127.0.0.1  <br><br>
 <h2> Video #2 </h2><br>
-RS485_from_SHT30.py - Python file on PC which reads data from the Humidity and Temperature Sensor <br>
-via RS485 in Modbus protocol
+RS485_from_SHT30.py <br>
+Python file on PC which reads data from the Humidity and Temperature Sensor via RS485 in Modbus protocol
